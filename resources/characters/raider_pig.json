@@ -1,0 +1,16 @@
+{
+  name : "Raider Pig",
+  faction : "Adversary",
+  subFaction : "Pig Men",
+  actionDice : 3,
+  speed : 4,
+  armor : 1,
+  abilities : [],
+  health : 4,
+  crippled : 2,
+  availableUpgrades : "twp",
+  pointValue : 16,
+  keyWords : [ "Pig", "Scout" ],
+  expansion : "Core",
+  numInExpansion : 1
+}

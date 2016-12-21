@@ -1,0 +1,16 @@
+{
+  name : "Wulfbad the Wanderer",
+  faction : "Advocate",
+  subFaction : "Legend",
+  actionDice : 4,
+  speed : 4,
+  armor : 1,
+  abilities : [],
+  health : 6,
+  crippled : 2,
+  availableUpgrades : "twip",
+  pointValue : 23,
+  keyWords : [ "Barbarian", "Scout" ],
+  expansion : "Legends",
+  numInExpansion : 1
+}

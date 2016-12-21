@@ -1,0 +1,16 @@
+{
+  name : "string", // Unit name.
+  faction : "string", // Advocate or Adversary
+  subFaction : "string", // Think Pig Men, Lone Guard, etc.
+  actionDice : "int", // Number of action dice generated when activated.
+  speed : "int", // Distance in inches unit moves.
+  armor : "int", // Armor
+  abilities : "array", // An array of abilities.
+  health : "int", // Total number of health
+  crippled : "int", // The number of health remaining when unit goes crippled.
+  availableUpgrades : "string", // TODO: Needs design. Current thought is a string mapping to type. Should this be an array?
+  pointValue : "int", // Number of points for 1 of this character.
+  keyWords : "array", // Spells out the keywords.
+  expansion : "string", // Which expansion available in: Core, Legends, Bone and Darkness, Lone Guard, The Deep
+  numInExpansion : "int" // How many copies of this character you get in the expansion.
+}

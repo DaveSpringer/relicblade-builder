@@ -1,0 +1,16 @@
+{
+  name : "Jayne Stokes",
+  faction : "Advocate",
+  subFaction : "Legend",
+  actionDice : 4,
+  speed : 3,
+  armor : 2,
+  abilities : [],
+  health : 5,
+  crippled : 3,
+  availableUpgrades : "twipp",
+  pointValue : 23,
+  keyWords : [ "Shield", "Fighter" ],
+  expansion : "Legends",
+  numInExpansion : 1
+}

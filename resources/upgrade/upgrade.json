@@ -1,0 +1,10 @@
+{
+  name : "string", // Upgrade name.
+  type : "string", // Really a character.  ( t = Tactic, p = Potion, i = Item, w = Weapon, s = Prepared Spell )
+  description : "string", // TODO: Determine what this is.
+  ability : [],
+  pointValue : "int",
+  keyWords : "string", // Describes any required keywords on the character this item will be attached to.
+  expansion : "string", // Which expansion available in: Core, Legends, Bone and Darkness, Lone Guard, The Deep
+  numInExpansion : "int" // How many copies of this upgrade you get in the expansion.
+}

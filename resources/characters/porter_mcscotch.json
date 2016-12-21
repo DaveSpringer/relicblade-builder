@@ -1,0 +1,16 @@
+{
+  name : "Porter McScotch",
+  faction : "Advocate",
+  subFaction : "Legend",
+  actionDice : 4,
+  speed : 3,
+  armor : 1,
+  abilities : [],
+  health : 4,
+  crippled : 2,
+  availableUpgrades : "tisp",
+  pointValue : 20,
+  keyWords : [ "Bard" ],
+  expansion : "Legends",
+  numInExpansion : 1
+}

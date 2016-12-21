@@ -1,0 +1,16 @@
+{
+  name : "Woggie Woggelbuck",
+  faction : "Advocate",
+  subFaction : "Legend",
+  actionDice : 4,
+  speed : 3
+  armor : 3
+  abilities : [],
+  health : 5,
+  crippled : 3,
+  availableUpgrades : "twip",
+  pointValue : 24,
+  keyWords : [ "Knight", "Smith" ],
+  expansion : "Legends",
+  numInExpansion : 1
+}

@@ -1,0 +1,16 @@
+{
+  name :
+  faction : 
+  subFaction :
+  actionDice : 
+  speed : 
+  armor : 
+  abilities : [],
+  health : 
+  crippled : 
+  availableUpgrades : 
+  pointValue : 
+  keyWords : 
+  expansion : 
+  numInExpansion : 1
+}

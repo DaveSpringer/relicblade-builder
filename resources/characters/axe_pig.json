@@ -1,0 +1,16 @@
+{
+  name : "Axe Pig",
+  faction : "Adversary",
+  subFaction : "Pig Men",
+  actionDice : 3,
+  speed : 4,
+  armor : 1,
+  abilities : [],
+  health : 4,
+  crippled : 2,
+  availableUpgrades : "twp",
+  pointValue : 14,
+  keyWords : [ "Pig" ],
+  expansion : "Core",
+  numInExpansion : 1
+}

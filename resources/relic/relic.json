@@ -1,0 +1,5 @@
+{
+  name : "string", // Relic name.
+  type : "string", // The type of relic... ?
+  description : "string", // The description of the relic. Now with humor!
+  ability : "array" // TODO

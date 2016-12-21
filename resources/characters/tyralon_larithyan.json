@@ -1,0 +1,16 @@
+{
+  name : "Tyralyon Larithyan",
+  faction : "Advocate",
+  subFaction : "Legend",
+  actionDice : 5,
+  speed : 3,
+  armor : 2,
+  abilities : [],
+  health : 4,
+  crippled : 2,
+  availableUpgrades : "tipp",
+  pointValue : 40,
+  keyWords : [ "Knight" ]
+  expansion : "Legends",
+  numInExpansion : 1
+}
