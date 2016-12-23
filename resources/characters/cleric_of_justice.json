@@ -11,6 +11,6 @@
   availableUpgrades : "twsi",
   pointValue : 23,
   keyWords : [ "Holy", "Cleric" ],
-  expansion : "Core",
+  expansion : [ "Core" ],
   numInExpansion : 1
 }

@@ -11,6 +11,6 @@
   availableUpgrades : "twipp",
   pointValue : 23,
   keyWords : [ "Shield", "Fighter" ],
-  expansion : "Legends",
+  expansion : [ "Legends" ],
   numInExpansion : 1
 }

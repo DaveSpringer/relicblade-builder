@@ -11,6 +11,6 @@
   availableUpgrades : "twp",
   pointValue : 16,
   keyWords : [ "Pig" ],
-  expansion : "Core",
+  expansion : [ "Core" ],
   numInExpansion : 1
 }

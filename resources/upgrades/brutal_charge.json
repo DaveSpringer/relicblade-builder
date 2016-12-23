@@ -5,6 +5,6 @@
   ability : [],
   pointValue : 1,
   keyWords : [ "Pig", "Beast" ], 
-  expansion : "Core",
+  expansion : [ "Core" ],
   numInExpansion : 1
 }

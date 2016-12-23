@@ -11,6 +11,6 @@
   availableUpgrades : "twip",
   pointValue : 24,
   keyWords : [ "Knight", "Smith" ],
-  expansion : "Legends",
+  expansion : [ "Legends" ],
   numInExpansion : 1
 }

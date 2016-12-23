@@ -11,6 +11,6 @@
   availableUpgrades : "twipp",
   pointValue : 23,
   keyWords : [ "Knight" ],
-  expansion : "Core",
+  expansion : [ "Core" ],
   numInExpansion : 1
 }

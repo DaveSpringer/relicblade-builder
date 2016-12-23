@@ -5,6 +5,6 @@
   ability : [],
   pointValue : 1
   keyWords : [ "Knight", "Cleric" ], 
-  expansion : "Core",
+  expansion : [ "Core" ],
   numInExpansion : 1
 }

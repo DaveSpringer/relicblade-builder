@@ -11,6 +11,6 @@
   availableUpgrades : "twsi",
   pointValue: 23,
   keyWords: [ "Holy", "Knight" ],
-  expansion : "Legends",
+  expansion : [ "Legends" ],
   numInExpansion : 1
 }

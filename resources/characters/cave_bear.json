@@ -11,6 +11,6 @@
   availableUpgrades : "ti",
   pointValue : 30,
   keyWords : [ "Beast" ],
-  expansion : "Core",
+  expansion : [ "Core" ],
   numInExpansion : 1
 }

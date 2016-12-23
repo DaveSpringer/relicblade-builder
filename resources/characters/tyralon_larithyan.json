@@ -11,6 +11,6 @@
   availableUpgrades : "tipp",
   pointValue : 40,
   keyWords : [ "Knight" ]
-  expansion : "Legends",
+  expansion : [ "Legends" ],
   numInExpansion : 1
 }

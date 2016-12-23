@@ -11,6 +11,6 @@
   availableUpgrades : "",
   pointValue : 0,
   keyWords : [ "Cleric" ],
-  expansion : "Core",
+  expansion : [ "Core" ],
   numInExpansion : 1
 }

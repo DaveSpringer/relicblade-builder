@@ -11,6 +11,6 @@
   availableUpgrades : "tisp",
   pointValue : 20,
   keyWords : [ "Bard" ],
-  expansion : "Legends",
+  expansion : [ "Legends" ],
   numInExpansion : 1
 }

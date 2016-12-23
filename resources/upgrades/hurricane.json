@@ -5,6 +5,6 @@
   ability : [],
   pointValue : 5,
   keyWords : [ "Druid" ], 
-  expansion : "Core",
+  expansion : [ "Core" ],
   numInExpansion : 1
 }
