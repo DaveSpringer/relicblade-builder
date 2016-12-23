@@ -1,0 +1,16 @@
+{
+  name : "Synvar the Sneak",
+  faction : "Adversary",
+  subFaction : "Iguan",
+  actionDice : 5 ,
+  speed : 3,
+  armor : 1,
+  abilities : [],
+  health : 5,
+  crippled : 3,
+  availableUpgrades : "tiip",
+  pointValue : 30,
+  keyWords : [ "Rogue" ],
+  expansion : [ "Legends" ],
+  numInExpansion : 1
+}

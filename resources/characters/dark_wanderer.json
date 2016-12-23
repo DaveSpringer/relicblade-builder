@@ -1,0 +1,16 @@
+{
+  name : "Dark Wanderer",
+  faction : "Adversary",
+  subFaction : "Bone and Darkness",
+  actionDice : 4,
+  speed : 3,
+  armor : 2,
+  abilities : [],
+  health : 5,
+  crippled : 3,
+  availableUpgrades : "twsi",
+  pointValue : 26,
+  keyWords : [ "Bone", "Darkness" ],
+  expansion : [ "Legends", "Bone and Darkness" ],
+  numInExpansion : 1
+}
