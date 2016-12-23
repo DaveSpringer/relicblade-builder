@@ -1,0 +1,16 @@
+{
+  name : "Spirit Weapon",
+  faction : "Advocate",
+  subFaction : "Justice",
+  actionDice : 2,
+  speed : 3,
+  armor : 0,
+  abilities : [],
+  health : 1,
+  crippled : 1,
+  availableUpgrades : "",
+  pointValue : 0,
+  keyWords : [ "Cleric" ],
+  expansion : "Core",
+  numInExpansion : 1
+}

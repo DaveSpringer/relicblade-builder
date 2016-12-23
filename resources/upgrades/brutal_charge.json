@@ -1,0 +1,10 @@
+{
+  name : "Brutal Charge",
+  type : "t", 
+  description : "Pig and Beast Only",
+  ability : [],
+  pointValue : 1,
+  keyWords : [ "Pig", "Beast" ], 
+  expansion : "Core",
+  numInExpansion : 1
+}

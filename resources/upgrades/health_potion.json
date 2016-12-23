@@ -1,0 +1,10 @@
+{
+  name : "Health Potion",
+  type : "p",
+  description : "Single Use",
+  ability : [],
+  pointValue : 2,
+  keyWords : [ ], 
+  expansion : "Core",
+  numInExpansion : 2
+}

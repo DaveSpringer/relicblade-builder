@@ -1,0 +1,16 @@
+{
+  name : "Cleric of Justice",
+  faction : "Advocate",
+  subFaction : "Justice",
+  actionDice : 4,
+  speed : 3,
+  armor : 2,
+  abilities : [],
+  health : 5,
+  crippled : 3,
+  availableUpgrades : "twsi",
+  pointValue : 23,
+  keyWords : [ "Holy", "Cleric" ],
+  expansion : "Core",
+  numInExpansion : 1
+}

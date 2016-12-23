@@ -1,0 +1,10 @@
+{
+  name : "Wind Walk",
+  type : "s",
+  description : "Nature",
+  ability : [],
+  pointValue : 3,
+  keyWords : [ "Nature" ], 
+  expansion : "Core",
+  numInExpansion : 1
+}

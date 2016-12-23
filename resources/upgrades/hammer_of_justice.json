@@ -1,0 +1,10 @@
+{
+  name : "Hammer of Justice",
+  type : "w",
+  description : "Cleric Only"
+  ability : [],
+  pointValue : 4,
+  keyWords : [ "Cleric" ], 
+  expansion : "Core",
+  numInExpansion : 1
+}

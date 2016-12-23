@@ -1,0 +1,10 @@
+{
+  name : "Shield Wall",
+  type : "t",
+  description : "Requires Shield",
+  ability : [],
+  pointValue : 2
+  keyWords : [ "Shield" ], 
+  expansion : "Core",
+  numInExpansion : 1
+}

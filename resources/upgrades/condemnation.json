@@ -1,0 +1,10 @@
+{
+  name : "Condemnation",
+  type : "s",
+  description : "Holy",
+  ability : [],
+  pointValue : 3,
+  keyWords : [ "Holy" ], 
+  expansion : "Core",
+  numInExpansion : 1
+}

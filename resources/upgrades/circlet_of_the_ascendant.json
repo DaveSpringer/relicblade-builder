@@ -1,0 +1,10 @@
+{
+  name : "Circlet of the Ascendant",
+  type : "i",
+  description : "Cleric Only",
+  ability : [],
+  pointValue : 2,
+  keyWords : [ "Cleric" ], 
+  expansion : "Core",
+  numInExpansion : 1
+}

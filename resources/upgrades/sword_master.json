@@ -1,0 +1,10 @@
+{
+  name : "Sword Master",
+  type : "t",
+  description : "Knight Only",
+  ability : [],
+  pointValue : 2,
+  keyWords : [ "Knight" ], 
+  expansion : "Core",
+  numInExpansion : 1
+}

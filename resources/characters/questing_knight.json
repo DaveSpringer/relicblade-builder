@@ -1,0 +1,16 @@
+{
+  name : "Questing Knight",
+  faction : "Advocate",
+  subFaction : "Knight",
+  actionDice : 4,
+  speed : 3,
+  armor : 3,
+  abilities : [],
+  health : 5,
+  crippled : 3,
+  availableUpgrades : "twipp",
+  pointValue : 23,
+  keyWords : [ "Knight" ],
+  expansion : "Core",
+  numInExpansion : 1
+}

@@ -1,0 +1,10 @@
+{
+  name : "Healing Prayer",
+  type : "s",
+  description : "Holy - Two Uses",
+  ability : [],
+  pointValue : 3,
+  keyWords : [ "Holy" ], 
+  expansion : "Core",
+  numInExpansion : 1
+}

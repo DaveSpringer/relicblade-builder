@@ -1,0 +1,10 @@
+{
+  name : "Rebuke",
+  type : "s",
+  description : "Holy",
+  ability : [],
+  pointValue : 1,
+  keyWords : [ "Holy" ], 
+  expansion : "Core",
+  numInExpansion : 1
+}

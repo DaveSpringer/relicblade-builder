@@ -1,0 +1,10 @@
+{
+  name : "Riposte",
+  type : "t",
+  description : "Knight Only",
+  ability : [],
+  pointValue : 3,
+  keyWords : [ "Knight" ], 
+  expansion : "Core",
+  numInExpansion : 1
+}

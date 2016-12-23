@@ -1,0 +1,10 @@
+{
+  name : "Pendant of Ferocity",
+  type : "i",
+  description : "Beast Only",
+  ability : [],
+  pointValue : 2,
+  keyWords : [ "Beast" ], 
+  expansion : "Core",
+  numInExpansion : 1
+}

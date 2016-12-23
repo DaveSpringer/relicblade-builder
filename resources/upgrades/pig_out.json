@@ -1,0 +1,10 @@
+{
+  name : "Pig Out",
+  type : "t",
+  description : "Pig Only"
+  ability : [],
+  pointValue : 1
+  keyWords : [ "Pig" ], 
+  expansion : "Core",
+  numInExpansion : 1
+}

@@ -1,0 +1,16 @@
+{
+  name : "Cave Bear",
+  faction : "Advocate",
+  subFaction : "Wilds",
+  actionDice : 3,
+  speed : 5,
+  armor : 2,
+  abilities : [],
+  health : 6,
+  crippled : 2,
+  availableUpgrades : "ti",
+  pointValue : 30,
+  keyWords : [ "Beast" ],
+  expansion : "Core",
+  numInExpansion : 1
+}

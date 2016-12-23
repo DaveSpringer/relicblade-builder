@@ -1,0 +1,10 @@
+{
+  name : "Sling and Stone",
+  type : "w",
+  description : "A simple weapon, but it serves its purpose",
+  ability : [],
+  pointValue : 2,
+  keyWords : [ ], 
+  expansion : "Core",
+  numInExpansion : 1
+}

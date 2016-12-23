@@ -1,0 +1,10 @@
+{
+  name : "Cudgel",
+  type : "w",
+  description : "Pig Only",
+  ability : [],
+  pointValue : -2,
+  keyWords : [ "Pig" ], 
+  expansion : "Core",
+  numInExpansion : 1
+}

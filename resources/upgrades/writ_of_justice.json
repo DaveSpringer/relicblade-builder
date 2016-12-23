@@ -1,0 +1,10 @@
+{
+  name : "Writ of Justice",
+  type : "i",
+  description : "Knight and Cleric Only - Single Use",
+  ability : [],
+  pointValue : 1
+  keyWords : [ "Knight", "Cleric" ], 
+  expansion : "Core",
+  numInExpansion : 1
+}

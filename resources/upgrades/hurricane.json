@@ -1,0 +1,10 @@
+{
+  name : "Hurricane",
+  type : "s"
+  description : "Druid - Single Use",
+  ability : [],
+  pointValue : 5,
+  keyWords : [ "Druid" ], 
+  expansion : "Core",
+  numInExpansion : 1
+}

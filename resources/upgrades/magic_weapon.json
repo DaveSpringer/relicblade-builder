@@ -1,0 +1,10 @@
+{
+  name : "Magic Weapon",
+  type : "w",
+  description : "",
+  ability : [],
+  pointValue : 4,
+  keyWords : [ ], 
+  expansion : "Core",
+  numInExpansion : 1
+}

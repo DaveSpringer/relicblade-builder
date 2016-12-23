@@ -1,0 +1,10 @@
+{
+  name : "Bark Skin",
+  type : "s",
+  description : "Druid",
+  ability : [],
+  pointValue : 3,
+  keyWords : [ "Druid" ], 
+  expansion : "Core",
+  numInExpansion : 1
+}

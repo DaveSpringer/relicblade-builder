@@ -1,0 +1,10 @@
+{
+  name : "Druidic Focus",
+  type : "i",
+  description : "Druid Only",
+  ability : [],
+  pointValue : 2,
+  keyWords : [ "Druid" ], 
+  expansion : "Core",
+  numInExpansion : 1
+}

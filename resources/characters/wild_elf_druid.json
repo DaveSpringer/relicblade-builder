@@ -1,0 +1,16 @@
+{
+  name : "Wild Elf Druid",
+  faction : "Advocate",
+  subFaction : "Nature",
+  actionDice : 4,
+  speed : 3,
+  armor : 1,
+  abilities : [],
+  health : 4,
+  crippled : 2,
+  availableUpgrades : "iss",
+  pointValue : 30,
+  keyWords : [ "Nature", "Druid" ],
+  expansion : "Core",
+  numInExpansion : 1
+}

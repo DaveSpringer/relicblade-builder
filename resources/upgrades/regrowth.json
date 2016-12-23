@@ -1,0 +1,10 @@
+{
+  name : "Regrowth",
+  type : "Nature",
+  description : "Nature - Three Uses",
+  ability : [],
+  pointValue : 3,
+  keyWords : [ "Nature" ], 
+  expansion : "Core",
+  numInExpansion : 1
+}

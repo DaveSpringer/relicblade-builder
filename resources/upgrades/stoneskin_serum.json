@@ -1,0 +1,10 @@
+{
+  name : "Stoneskin Serum",
+  type : "p",
+  description : "Single Use",
+  ability : [],
+  pointValue : 3,
+  keyWords : [ ], 
+  expansion : "Core",
+  numInExpansion : 1
+}
